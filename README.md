@@ -1,2 +1,2 @@
-# go-btorrent
+# go-torrent
 Building a BitTorrent client
